@@ -1,109 +1,109 @@
 @font-face {
-    font-family: 'Bai-JamjureeExtraLightitalic';
-    src: url('./fonts/Bai-Jamjuree-ExtraLightitalic.eot');
-    src: url('./fonts/Bai-Jamjuree-ExtraLightitalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-ExtraLightitalic.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-ExtraLightitalic.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-ExtraLightitalic.ttf') format('truetype');
+    font-family: 'BaiJamjureeExtraLightitalic';
+    src: url('./fonts/BaiJamjuree-ExtraLightitalic.eot');
+    src: url('./fonts/BaiJamjuree-ExtraLightitalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-ExtraLightitalic.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-ExtraLightitalic.woff') format('woff'),
+         url('./fonts/BaiJamjuree-ExtraLightitalic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeLightitalic';
-    src: url('./fonts/Bai-Jamjuree-Lightitalic.eot');
-    src: url('./fonts/Bai-Jamjuree-Lightitalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Lightitalic.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Lightitalic.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Lightitalic.ttf') format('truetype');
+    font-family: 'BaiJamjureeLightitalic';
+    src: url('./fonts/BaiJamjuree-Lightitalic.eot');
+    src: url('./fonts/BaiJamjuree-Lightitalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Lightitalic.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Lightitalic.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Lightitalic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-Jamjureeitalic';
-    src: url('./fonts/Bai-Jamjuree-italic.eot');
-    src: url('./fonts/Bai-Jamjuree-italic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-italic.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-italic.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-italic.ttf') format('truetype');
+    font-family: 'BaiJamjureeitalic';
+    src: url('./fonts/BaiJamjuree-italic.eot');
+    src: url('./fonts/BaiJamjuree-italic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-italic.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-italic.woff') format('woff'),
+         url('./fonts/BaiJamjuree-italic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeMediumitalic';
-    src: url('./fonts/Bai-Jamjuree-Mediumitalic.eot');
-    src: url('./fonts/Bai-Jamjuree-Mediumitalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Mediumitalic.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Mediumitalic.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Mediumitalic.ttf') format('truetype');
+    font-family: 'BaiJamjureeMediumitalic';
+    src: url('./fonts/BaiJamjuree-Mediumitalic.eot');
+    src: url('./fonts/BaiJamjuree-Mediumitalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Mediumitalic.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Mediumitalic.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Mediumitalic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeSemiBolditalic';
-    src: url('./fonts/Bai-Jamjuree-SemiBolditalic.eot');
-    src: url('./fonts/Bai-Jamjuree-SemiBolditalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-SemiBolditalic.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-SemiBolditalic.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-SemiBolditalic.ttf') format('truetype');
+    font-family: 'BaiJamjureeSemiBolditalic';
+    src: url('./fonts/BaiJamjuree-SemiBolditalic.eot');
+    src: url('./fonts/BaiJamjuree-SemiBolditalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-SemiBolditalic.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-SemiBolditalic.woff') format('woff'),
+         url('./fonts/BaiJamjuree-SemiBolditalic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeBolditalic';
-    src: url('./fonts/Bai-Jamjuree-Bolditalic.eot');
-    src: url('./fonts/Bai-Jamjuree-Bolditalic.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Bolditalic.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Bolditalic.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Bolditalic.ttf') format('truetype');
+    font-family: 'BaiJamjureeBolditalic';
+    src: url('./fonts/BaiJamjuree-Bolditalic.eot');
+    src: url('./fonts/BaiJamjuree-Bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Bolditalic.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Bolditalic.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Bolditalic.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeExtraLight';
-    src: url('./fonts/Bai-Jamjuree-ExtraLight.eot');
-    src: url('./fonts/Bai-Jamjuree-ExtraLight.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-ExtraLight.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-ExtraLight.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-ExtraLight.ttf') format('truetype');
+    font-family: 'BaiJamjureeExtraLight';
+    src: url('./fonts/BaiJamjuree-ExtraLight.eot');
+    src: url('./fonts/BaiJamjuree-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-ExtraLight.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-ExtraLight.woff') format('woff'),
+         url('./fonts/BaiJamjuree-ExtraLight.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeLight';
-    src: url('./fonts/Bai-Jamjuree-Light.eot');
-    src: url('./fonts/Bai-Jamjuree-Light.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Light.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Light.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Light.ttf') format('truetype');
+    font-family: 'BaiJamjureeLight';
+    src: url('./fonts/BaiJamjuree-Light.eot');
+    src: url('./fonts/BaiJamjuree-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Light.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Light.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Light.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeRegular';
-    src: url('./fonts/Bai-Jamjuree-Regular.eot');
-    src: url('./fonts/Bai-Jamjuree-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Regular.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Regular.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Regular.ttf') format('truetype');
+    font-family: 'BaiJamjureeRegular';
+    src: url('./fonts/BaiJamjuree-Regular.eot');
+    src: url('./fonts/BaiJamjuree-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Regular.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Regular.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Regular.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeMedium';
-    src: url('./fonts/Bai-Jamjuree-Medium.eot');
-    src: url('./fonts/Bai-Jamjuree-Medium.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Medium.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Medium.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Medium.ttf') format('truetype');
+    font-family: 'BaiJamjureeMedium';
+    src: url('./fonts/BaiJamjuree-Medium.eot');
+    src: url('./fonts/BaiJamjuree-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Medium.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Medium.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Medium.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeSemiBold';
-    src: url('./fonts/Bai-Jamjuree-SemiBold.eot');
-    src: url('./fonts/Bai-Jamjuree-SemiBold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-SemiBold.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-SemiBold.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-SemiBold.ttf') format('truetype');
+    font-family: 'BaiJamjureeSemiBold';
+    src: url('./fonts/BaiJamjuree-SemiBold.eot');
+    src: url('./fonts/BaiJamjuree-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-SemiBold.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-SemiBold.woff') format('woff'),
+         url('./fonts/BaiJamjuree-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'Bai-JamjureeBold';
-    src: url('./fonts/Bai-Jamjuree-Bold.eot');
-    src: url('./fonts/Bai-Jamjuree-Bold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Bai-Jamjuree-Bold.woff2') format('woff2'),
-         url('./fonts/Bai-Jamjuree-Bold.woff') format('woff'),
-         url('./fonts/Bai-Jamjuree-Bold.ttf') format('truetype');
+    font-family: 'BaiJamjureeBold';
+    src: url('./fonts/BaiJamjuree-Bold.eot');
+    src: url('./fonts/BaiJamjuree-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/BaiJamjuree-Bold.woff2') format('woff2'),
+         url('./fonts/BaiJamjuree-Bold.woff') format('woff'),
+         url('./fonts/BaiJamjuree-Bold.ttf') format('truetype');
 }
 
 #block-1 {
@@ -113,7 +113,7 @@
 }
 
 #block-1-header {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 25pt;
   line-height: 200%;
   text-align: center;
@@ -121,14 +121,14 @@
 }
 
 #name {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   font-size: 90pt;
 }
 
 #block-2 {
   color: #7040FF;
   background-color: #FFF;
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   font-size: 42pt;
   line-height: 140%;
   text-align: left;
@@ -144,7 +144,7 @@
 }
 
 #block-3-text {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   font-size: 18pt;
   line-height: 140%;
   text-align: right;
@@ -158,7 +158,7 @@
 }
 
 #block-5-Title {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   font-size: 16pt;
   text-align: left;
   letter-spacing: 0px;
@@ -166,7 +166,7 @@
 
 
 #block-5-text_sub {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   line-height: 100%;
   text-align: left;
@@ -174,7 +174,7 @@
 }
 
 #block-5-text1 {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -182,7 +182,7 @@
 }
 
 #block-5-text2 {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -190,7 +190,7 @@
 }
 
 #block-5-text3 {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -198,7 +198,7 @@
 }
 
 #block-5-text4 {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -206,7 +206,7 @@
 }
 
 #block-5-text5 {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -214,7 +214,7 @@
 }
 
 #block-5-text6 {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -228,7 +228,7 @@
 }
 
 #block-5-i-Title {
-  font-family: 'Bai-Jamjuree';
+  font-family: 'BaiJamjuree';
   font-size: 16pt;
   text-align: left;
   letter-spacing: 0px;
@@ -236,7 +236,7 @@
 
 
 #block-5-i-text_sub {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   line-height: 100%;
   text-align: left;
@@ -244,7 +244,7 @@
 }
 
 #block-5-i-text1 {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -252,7 +252,7 @@
 }
 
 #block-5-i-text2 {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -260,7 +260,7 @@
 }
 
 #block-5-i-text3 {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -268,7 +268,7 @@
 }
 
 #block-5-i-text4 {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -276,7 +276,7 @@
 }
 
 #block-5-i-text5 {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -284,7 +284,7 @@
 }
 
 #block-5-i-text6 {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   font-size: 110pt;
   line-height: 100%;
   text-align: left;
@@ -305,7 +305,7 @@
 }
 
 #block-7-1-text {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   font-size: 16pt;
   line-height: 150%;
   text-align: left;
@@ -321,7 +321,7 @@
 }
 
 #block-7-2-text {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   font-size: 18pt;
   line-height: 150%;
   text-align: left;
@@ -330,7 +330,7 @@
 
 #block-Title {
   color: #999999;
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -338,7 +338,7 @@
 
 #block-Title-1 {
   color: #999999;
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -346,7 +346,7 @@
 
 #block-Title-2 {
   color: #999999;
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -354,7 +354,7 @@
 
 ul.nav > li > a {
   color: #999999;
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: center;
   letter-spacing: 0px;
@@ -363,7 +363,7 @@ ul.nav > li > a {
 ul.nav > li.active > a {
   color: #FFF;
   background-color: #7040FF;
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   font-size: 12pt;
   text-align: center;
   letter-spacing: 0px;
@@ -378,7 +378,7 @@ ul.nav > li.active > a {
 }
 
 #block-9-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -393,7 +393,7 @@ ul.nav > li.active > a {
 }
 
 #block-9-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -408,14 +408,14 @@ ul.nav > li.active > a {
 }
 
 #block-10-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-10-Char {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -424,7 +424,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-Num {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -433,7 +433,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-Vowel {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -441,7 +441,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-Sp-Char {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -449,7 +449,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-Symbol {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -457,7 +457,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-Ac-Char {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -465,21 +465,21 @@ ul.nav > li.active > a {
 }
 
 #block-10-Text1 {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-10-Text2 {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-10-Text3 {
-  font-family: 'Bai-JamjureeExtraLight';
+  font-family: 'BaiJamjureeExtraLight';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -494,14 +494,14 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-10-i-Char {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -510,7 +510,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Num {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -519,7 +519,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Vowel {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -527,7 +527,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Sp-Char {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -535,7 +535,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Symbol {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -543,7 +543,7 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Ac-Char {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -551,21 +551,21 @@ ul.nav > li.active > a {
 }
 
 #block-10-i-Text1 {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-10-i-Text2 {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-10-i-Text3 {
-  font-family: 'Bai-JamjureeExtraLightitalic';
+  font-family: 'BaiJamjureeExtraLightitalic';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -580,14 +580,14 @@ ul.nav > li.active > a {
 }
 
 #block-11-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-11-Char {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -596,7 +596,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-Num {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -605,7 +605,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-Vowel {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -613,7 +613,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-Sp-Char {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -621,7 +621,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-Symbol {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -629,7 +629,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-Ac-Char {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -637,21 +637,21 @@ ul.nav > li.active > a {
 }
 
 #block-11-Text1 {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-11-Text2 {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-11-Text3 {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -666,14 +666,14 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-11-i-Char {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -682,7 +682,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Num {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -691,7 +691,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Vowel {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -699,7 +699,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Sp-Char {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -707,7 +707,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Symbol {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -715,7 +715,7 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Ac-Char {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -723,21 +723,21 @@ ul.nav > li.active > a {
 }
 
 #block-11-i-Text1 {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-11-i-Text2 {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-11-i-Text3 {
-  font-family: 'Bai-JamjureeLightitalic';
+  font-family: 'BaiJamjureeLightitalic';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -752,14 +752,14 @@ ul.nav > li.active > a {
 }
 
 #block-12-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-12-Char {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -768,7 +768,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-Num {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -777,7 +777,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-Vowel {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -785,7 +785,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-Sp-Char {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -793,7 +793,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-Symbol {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -801,7 +801,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-Ac-Char {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -809,21 +809,21 @@ ul.nav > li.active > a {
 }
 
 #block-12-Text1 {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-12-Text2 {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-12-Text3 {
-  font-family: 'Bai-JamjureeRegular';
+  font-family: 'BaiJamjureeRegular';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -838,14 +838,14 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-12-i-Char {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -854,7 +854,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Num {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -863,7 +863,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Vowel {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -871,7 +871,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Sp-Char {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -879,7 +879,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Symbol {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -887,7 +887,7 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Ac-Char {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -895,21 +895,21 @@ ul.nav > li.active > a {
 }
 
 #block-12-i-Text1 {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-12-i-Text2 {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-12-i-Text3 {
-  font-family: 'Bai-Jamjureeitalic';
+  font-family: 'BaiJamjureeitalic';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -924,14 +924,14 @@ ul.nav > li.active > a {
 }
 
 #block-13-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-13-Char {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -940,7 +940,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-Num {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -949,7 +949,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-Vowel {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -957,7 +957,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-Sp-Char {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -965,7 +965,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-Symbol {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -973,7 +973,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-Ac-Char {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -981,21 +981,21 @@ ul.nav > li.active > a {
 }
 
 #block-13-Text1 {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-13-Text2 {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-13-Text3 {
-  font-family: 'Bai-JamjureeMedium';
+  font-family: 'BaiJamjureeMedium';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -1010,14 +1010,14 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-13-i-Char {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -1026,7 +1026,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Num {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -1035,7 +1035,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Vowel {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1043,7 +1043,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Sp-Char {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1051,7 +1051,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Symbol {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1059,7 +1059,7 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Ac-Char {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1067,21 +1067,21 @@ ul.nav > li.active > a {
 }
 
 #block-13-i-Text1 {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-13-i-Text2 {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-13-i-Text3 {
-  font-family: 'Bai-JamjureeMediumitalic';
+  font-family: 'BaiJamjureeMediumitalic';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -1096,14 +1096,14 @@ ul.nav > li.active > a {
 }
 
 #block-14-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-14-Char {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -1112,7 +1112,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-Num {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -1121,7 +1121,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-Vowel {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1129,7 +1129,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-Sp-Char {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1137,7 +1137,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-Symbol {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1145,7 +1145,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-Ac-Char {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1153,21 +1153,21 @@ ul.nav > li.active > a {
 }
 
 #block-14-Text1 {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-14-Text2 {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-14-Text3 {
-  font-family: 'Bai-JamjureeSemiBold';
+  font-family: 'BaiJamjureeSemiBold';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -1182,14 +1182,14 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-14-i-Char {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -1198,7 +1198,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Num {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -1207,7 +1207,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Vowel {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1215,7 +1215,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Sp-Char {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1223,7 +1223,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Symbol {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1231,7 +1231,7 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Ac-Char {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1239,21 +1239,21 @@ ul.nav > li.active > a {
 }
 
 #block-14-i-Text1 {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-14-i-Text2 {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-14-i-Text3 {
-  font-family: 'Bai-JamjureeSemiBolditalic';
+  font-family: 'BaiJamjureeSemiBolditalic';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -1269,14 +1269,14 @@ ul.nav > li.active > a {
 }
 
 #block-15-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-15-Char {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -1285,7 +1285,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-Num {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -1294,7 +1294,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-Vowel {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1302,7 +1302,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-Sp-Char {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1310,7 +1310,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-Symbol {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1318,7 +1318,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-Ac-Char {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1326,21 +1326,21 @@ ul.nav > li.active > a {
 }
 
 #block-15-Text1 {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-15-Text2 {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-15-Text3 {
-  font-family: 'Bai-JamjureeBold';
+  font-family: 'BaiJamjureeBold';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -1355,14 +1355,14 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-15-i-Char {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   font-size: 22pt;
   line-height: 120%;
   text-align: left;
@@ -1371,7 +1371,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Num {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   font-size: 22pt;
   text-align: left;
   line-height: 120%;
@@ -1380,7 +1380,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Vowel {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1388,7 +1388,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Sp-Char {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 150%;
   font-size: 22pt;
   text-align: left;
@@ -1396,7 +1396,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Symbol {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1404,7 +1404,7 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Ac-Char {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 130%;
   font-size: 22pt;
   text-align: left;
@@ -1412,21 +1412,21 @@ ul.nav > li.active > a {
 }
 
 #block-15-i-Text1 {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 125%;
   font-size: 12pt;
   text-align: left;
 }
 
 #block-15-i-Text2 {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 125%;
   font-size: 18pt;
   text-align: left;
 }
 
 #block-15-i-Text3 {
-  font-family: 'Bai-JamjureeBolditalic';
+  font-family: 'BaiJamjureeBolditalic';
   line-height: 150%;
   font-size: 24pt;
   text-align: left;
@@ -1441,7 +1441,7 @@ ul.nav > li.active > a {
 }
 
 #block-16-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -1456,7 +1456,7 @@ ul.nav > li.active > a {
 }
 
 #block-16-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -1471,7 +1471,7 @@ ul.nav > li.active > a {
 }
 
 #block-17-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
@@ -1486,7 +1486,7 @@ ul.nav > li.active > a {
 }
 
 #block-17-i-Title {
-  font-family: 'Bai-JamjureeLight';
+  font-family: 'BaiJamjureeLight';
   font-size: 12pt;
   text-align: left;
   letter-spacing: 0px;
